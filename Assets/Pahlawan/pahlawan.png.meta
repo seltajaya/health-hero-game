@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: 2ad705c3a5d5f2348844e4f8106a8040
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3232975071863570781
+    second: pahlawan_0
+  - first:
+      213: -3806820080938407402
+    second: pahlawan_1
+  - first:
+      213: -1743411201893867268
+    second: pahlawan_2
+  - first:
+      213: -2547643019299400851
+    second: pahlawan_3
+  - first:
+      213: 5046479379175242362
+    second: pahlawan_4
+  - first:
+      213: -6970861837442904479
+    second: pahlawan_5
+  - first:
+      213: 8003154042233770154
+    second: pahlawan_6
+  - first:
+      213: -181537108430120467
+    second: pahlawan_7
+  - first:
+      213: 7849098945463135756
+    second: pahlawan_8
+  - first:
+      213: 286759421894084261
+    second: pahlawan_9
+  - first:
+      213: 6597878113605033491
+    second: pahlawan_10
+  - first:
+      213: -4316918070340090558
+    second: pahlawan_11
+  - first:
+      213: 2837037749731881537
+    second: pahlawan_12
+  - first:
+      213: 3952481459130061033
+    second: pahlawan_13
+  - first:
+      213: 8621332818923881771
+    second: pahlawan_14
+  - first:
+      213: -1780315423872610023
+    second: pahlawan_15
+  - first:
+      213: -78883892867459902
+    second: pahlawan_16
+  - first:
+      213: 6812566580479224771
+    second: pahlawan_17
+  - first:
+      213: 346478086352101205
+    second: pahlawan_18
+  - first:
+      213: -7220023284148238067
+    second: pahlawan_19
+  - first:
+      213: 6548230568999633708
+    second: pahlawan_20
+  - first:
+      213: 510970444316734289
+    second: pahlawan_21
+  - first:
+      213: 8313517548896396281
+    second: pahlawan_22
+  - first:
+      213: -3530530603852403470
+    second: pahlawan_23
+  - first:
+      213: -5053974363706784226
+    second: pahlawan_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pahlawan_0
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 3193
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aef0e91d4a2223d0800000000000000
+      internalID: -3232975071863570781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_1
+      rect:
+        serializedVersion: 2
+        x: 4504
+        y: 3195
+        width: 9
+        height: 5
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61aa7d74e457b2bc0800000000000000
+      internalID: -3806820080938407402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_2
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 3165
+        width: 10
+        height: 9
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0eda5bfb82ec7e0800000000000000
+      internalID: -1743411201893867268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_3
+      rect:
+        serializedVersion: 2
+        x: 5673
+        y: 3131
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63d7240c24f4acd0800000000000000
+      internalID: -2547643019299400851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_4
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 2974
+        width: 175
+        height: 46
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7af21a0242b80640800000000000000
+      internalID: 5046479379175242362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_5
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 2968
+        width: 169
+        height: 49
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e83e09716824f90800000000000000
+      internalID: -6970861837442904479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_6
+      rect:
+        serializedVersion: 2
+        x: 3954
+        y: 2974
+        width: 172
+        height: 46
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0531ae23ae01f60800000000000000
+      internalID: 8003154042233770154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_7
+      rect:
+        serializedVersion: 2
+        x: 5123
+        y: 2937
+        width: 169
+        height: 52
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9987236fc0b7df0800000000000000
+      internalID: -181537108430120467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_8
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1632
+        width: 927
+        height: 1336
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e293397e99dec60800000000000000
+      internalID: 7849098945463135756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_9
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 1617
+        width: 1058
+        height: 1323
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a64ef5cc26caf300800000000000000
+      internalID: 286759421894084261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_10
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 1599
+        width: 1079
+        height: 1372
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e90c0ff2f509b50800000000000000
+      internalID: 6597878113605033491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_11
+      rect:
+        serializedVersion: 2
+        x: 4790
+        y: 2291
+        width: 13
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2450ae413e93714c0800000000000000
+      internalID: -4316918070340090558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_12
+      rect:
+        serializedVersion: 2
+        x: 4966
+        y: 1559
+        width: 919
+        height: 1353
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14274275dce2f5720800000000000000
+      internalID: 2837037749731881537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_13
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1503
+        width: 170
+        height: 52
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0d3c822f80ad630800000000000000
+      internalID: 3952481459130061033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_14
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 1503
+        width: 170
+        height: 52
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b250062658025a770800000000000000
+      internalID: 8621332818923881771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_15
+      rect:
+        serializedVersion: 2
+        x: 5096
+        y: 1547
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9119ce3fd8c0b47e0800000000000000
+      internalID: -1780315423872610023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_16
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 1500
+        width: 172
+        height: 46
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c49223748fb7eef0800000000000000
+      internalID: -78883892867459902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_17
+      rect:
+        serializedVersion: 2
+        x: 4803
+        y: 1469
+        width: 30
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb692ed5391b8e50800000000000000
+      internalID: 6812566580479224771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_18
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 0
+        width: 1027
+        height: 1475
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f597bdbffeec400800000000000000
+      internalID: 346478086352101205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_19
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 131
+        width: 959
+        height: 1363
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d098b4e83135dcb90800000000000000
+      internalID: -7220023284148238067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_20
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 0
+        width: 981
+        height: 1475
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23c39c220dffda50800000000000000
+      internalID: 6548230568999633708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_21
+      rect:
+        serializedVersion: 2
+        x: 5147
+        y: 1429
+        width: 169
+        height: 46
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153f83079e4571700800000000000000
+      internalID: 510970444316734289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_22
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 845
+        width: 9
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f322ffe92c8f5370800000000000000
+      internalID: 8313517548896396281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_23
+      rect:
+        serializedVersion: 2
+        x: 4996
+        y: 82
+        width: 888
+        height: 1344
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc6bb01f19010fc0800000000000000
+      internalID: -3530530603852403470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pahlawan_24
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 70
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e168353e71dacd9b0800000000000000
+      internalID: -5053974363706784226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
